@@ -1,0 +1,6 @@
+@danostane_HostAddress = http://localhost:5064
+
+GET {{danostane_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
